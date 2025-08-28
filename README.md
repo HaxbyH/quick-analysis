@@ -26,10 +26,6 @@ some analysis of data for the 2025 programming workship
 
 4. **Launch Jupyter Notebook**
 
-   ```bash
-   jupyter notebook
-   ```
-
    Open `quick-analysis.ipynb` to start exploring.
 
 ```

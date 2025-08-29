@@ -1,5 +1,5 @@
 # faker-quick-analysis 
-some analysis of data for the 2025 programming workship
+some analysis of data for the 2025 programming workshop
 
 ## Installation
 

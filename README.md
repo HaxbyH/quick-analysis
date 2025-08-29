@@ -18,7 +18,7 @@ some analysis of data for the 2025 programming workshop
    ```
 
 3. **Install dependencies**
-   The project uses a `.requirements` file for package management. Run:
+   The project uses a `requirements.txt` file for package management. Run:
 
    ```bash
    pip install -r requirements.txt

@@ -21,7 +21,7 @@ some analysis of data for the 2025 programming workship
    The project uses a `.requirements` file for package management. Run:
 
    ```bash
-   pip install -r .requirements
+   pip install -r requirements.txt
    ```
 
 4. **Launch Jupyter Notebook**
